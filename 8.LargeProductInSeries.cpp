@@ -3,7 +3,7 @@
 
 using namespace std;
 
-link -:https://www.hackerrank.com/contests/projecteuler/challenges/euler008/problem
+//link -:https://www.hackerrank.com/contests/projecteuler/challenges/euler008/problem
 
 int main(){
     int t;
