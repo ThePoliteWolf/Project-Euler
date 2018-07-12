@@ -22,7 +22,7 @@
 #include <unordered_map>
 
 using namespace std;
-
+link :- https://www.hackerrank.com/contests/projecteuler/challenges/euler006
 
 int main(){
     int t;
