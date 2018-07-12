@@ -2,7 +2,7 @@
 
 
 using namespace std;
-link :-https://www.hackerrank.com/contests/projecteuler/challenges/euler009/problem
+//link :-https://www.hackerrank.com/contests/projecteuler/challenges/euler009/problem
 
 int main(){
 
