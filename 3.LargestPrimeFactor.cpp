@@ -3,6 +3,7 @@
  */
 #include<bits/stdc++.h>
 using namespace std;
+link -: https://www.hackerrank.com/contests/projecteuler/challenges/euler003
 
 #define ll int64_t
 #define llu uint64_t
