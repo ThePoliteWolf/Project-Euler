@@ -13,7 +13,7 @@
 #define fastio ios_base::sync_with_stdio(false); cin.tie(NULL)
 
 using namespace std;
-link :- https://www.hackerrank.com/contests/projecteuler/challenges/euler011/problem
+link :- https://www.hackerrank.com/contests/projecteuler/challenges/euler011/problem.
 
 int main()
 {
